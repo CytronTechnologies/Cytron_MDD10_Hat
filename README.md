@@ -6,7 +6,7 @@ Example project code for Cytron Raspberry Pi 10A Motor Driver Duo Hat.
 ## Description:
 This is sample code for Cytron Hat-MDD10. 
 
-## Requirement  
+## Requirements  
 
 **Hardware:**  
 * [Hat-MDD10](https://my.cytron.io/p-10amp-6v-24v-dc-motor-driver-hat-for-rpi-2-channels)

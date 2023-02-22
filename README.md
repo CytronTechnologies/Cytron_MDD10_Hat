@@ -1,7 +1,7 @@
 # Cytron_Hat-MDD10
 
 Example project code for Cytron Raspberry Pi 10A Motor Driver Duo Hat.  
-<img src="https://github.com/CytronTechnologies/Cytron_MDD10_Hat/blob/master/HAT-MDD10-image.jpg" width="500">
+<img src="https://github.com/CytronTechnologies/Cytron_MDD10_Hat/blob/master/HAT-MDD10_image.jpg" width="500">
 
 ## Description:
 This is sample code for Cytron Hat-MDD10. 
